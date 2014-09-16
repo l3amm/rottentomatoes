@@ -1,0 +1,1 @@
+PODS_ROTTEN_TOMATOES_MMPROGRESSHUD_OTHER_LDFLAGS = -framework CoreGraphics -framework QuartzCore

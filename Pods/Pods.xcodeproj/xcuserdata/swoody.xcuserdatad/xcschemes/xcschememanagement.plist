@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Rotten tomatoes-AFNetworking.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-Rotten tomatoes-CSNotificationView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-Rotten tomatoes-MMProgressHUD.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-Rotten tomatoes.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0F11C212D82840AFAB1A9E00</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D39BBC089E242A6A83E53ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C58935B635A46068BE8349D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8736EC600ECB4B109359DC15</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96CEB542DB7B41C5B4C8A03E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD2376A8B7E74F9ABD56F62E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF174F96EDD54CEEBB6BA10B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D46F56B74A0541DBA4481270</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2FD8885FC2E4193B7A019F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
